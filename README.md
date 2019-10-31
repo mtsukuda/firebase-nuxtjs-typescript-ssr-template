@@ -148,7 +148,3 @@ export default class IndexPage extends mixins(HeadMixin) {
 ## Licence
 
 MIT
-
-## Author
-
-Mats Tsukuda
